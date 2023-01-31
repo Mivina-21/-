@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    color:blue
+}
+
+header  {
+ background-color: lightblue;
+ padding: 10px;
+ border-radius: 10px;
+}
+
+footer p{
+    color: lightcoral
+}
+footer{
+   background-color: lightblue; 
+   border-radius: 10px; 
+}
+nav a{
+    color:blue;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+nav{
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.special {
+    background-color: gray;
+}
+
+h2{
+    color:blue;
+}
+
+.a {
+    text-decoration: none;
+}
